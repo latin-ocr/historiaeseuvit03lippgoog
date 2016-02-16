@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiaeseuvit03lippgoog_0958.png"; bbox 0 0 3347 4999; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1721 2139 2090 2200">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1721 2139 2090 2200">
+     <span class='ocr_line' id='line_1_1' title="bbox 1721 2139 2090 2200; baseline 0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1721 2139 2090 2200; x_wconf 79' lang='lat' dir='ltr'><strong>Mom‘rtm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 637 2280 3131 2455">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 637 2280 3131 2455">
+     <span class='ocr_line' id='line_1_2' title="bbox 719 2280 3131 2362; baseline -0.004 -16"><span class='ocrx_word' id='word_1_2' title='bbox 719 2287 811 2346; x_wconf 77' lang='lat' dir='ltr'><strong>Ne</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 853 2287 1154 2346; x_wconf 80' lang='lat' dir='ltr'><strong>voluminis</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1193 2287 1361 2362; x_wconf 78' lang='lat' dir='ltr'><strong>hujus</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1402 2288 1604 2347; x_wconf 84' lang='lat' dir='ltr'><strong>molem</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1648 2286 1776 2361; x_wconf 80' lang='lat' dir='ltr'><strong>plns</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1817 2303 1985 2360; x_wconf 78' lang='lat' dir='ltr'><strong>quam</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2030 2285 2265 2361; x_wconf 79' lang='lat' dir='ltr'>expedit</span> <span class='ocrx_word' id='word_1_9' title='bbox 2305 2303 2614 2361; x_wconf 74' lang='lat' dir='ltr'><strong>augeamus</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2641 2332 2658 2358; x_wconf 88' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_11' title='bbox 2702 2280 3131 2359; x_wconf 69' lang='lat' dir='ltr'><strong>martyrologium</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 637 2378 3063 2455; baseline -0.002 -17"><span class='ocrx_word' id='word_1_12' title='bbox 637 2382 1003 2453; x_wconf 73' lang='lat' dir='ltr'><strong>illustratum,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1035 2379 1185 2454; x_wconf 80' lang='lat' dir='ltr'><strong>quod</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1230 2389 1505 2455; x_wconf 80' lang='lat' dir='ltr'><strong>superest,</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1536 2381 1610 2440; x_wconf 78' lang='lat' dir='ltr'><strong>ad</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1652 2396 1894 2455; x_wconf 76' lang='lat' dir='ltr'>sequens</span> <span class='ocrx_word' id='word_1_17' title='bbox 1935 2380 2196 2440; x_wconf 80' lang='lat' dir='ltr'>volumen</span> <span class='ocrx_word' id='word_1_18' title='bbox 2239 2381 2323 2440; x_wconf 87' lang='lat' dir='ltr'><strong>XI</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 2365 2379 2682 2439; x_wconf 79' lang='lat' dir='ltr'><strong>transferre</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 2723 2378 3063 2439; x_wconf 78' lang='lat' dir='ltr'><strong>arbitramur.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3292 2544 3294 3385">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3292 2544 3294 3385">
+     <span class='ocr_line' id='line_1_4' title="bbox 3292 2544 3294 3385; baseline 0 0"><span class='ocrx_word' id='word_1_21' title='bbox 3292 2544 3294 3385; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

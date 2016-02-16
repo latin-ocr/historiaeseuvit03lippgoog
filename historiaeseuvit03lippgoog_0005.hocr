@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiaeseuvit03lippgoog_0005.png"; bbox 0 0 3347 4999; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1301 1776 1774 1964">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1301 1776 1774 1964">
+     <span class='ocr_line' id='line_1_1' title="bbox 1301 1776 1774 1964; baseline -0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 1301 1776 1774 1964; x_wconf 61' lang='lat' dir='ltr'>s&#39;vfflvs</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 685 2305 2352 2534">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 685 2305 2352 2534">
+     <span class='ocr_line' id='line_1_2' title="bbox 685 2305 2352 2534; baseline 0.001 -91"><span class='ocrx_word' id='word_1_2' title='bbox 685 2305 1159 2445; x_wconf 72' lang='grc' dir='ltr'>ΗΙὸῙΟΗΙΑΕ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1233 2305 1402 2534; x_wconf 56' lang='lat' dir='ltr'>SEU</span> <span class='ocrx_word' id='word_1_4' title='bbox 1484 2305 1731 2443; x_wconf 70' lang='lat' dir='ltr'>vmf.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1808 2306 2352 2445; x_wconf 73' lang='lat' dir='ltr'><strong>SANCIORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1214 2618 1849 2630">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1214 2618 1849 2630">
+     <span class='ocr_line' id='line_1_3' title="bbox 1214 2618 1849 2630; baseline 0 2369"><span class='ocrx_word' id='word_1_6' title='bbox 1214 2618 1849 2630; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
